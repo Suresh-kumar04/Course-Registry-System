@@ -26,6 +26,7 @@ This project demonstrates a **REST API** that supports basic CRUD operations for
 
 ### Prerequisites
 --> Java 17+ 
+
 --> Maven**  
 --> MySQL**  
 
