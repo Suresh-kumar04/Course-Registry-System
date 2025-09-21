@@ -21,15 +21,6 @@ This project demonstrates a **REST API** that supports basic CRUD operations for
 
 ---
 
-## 📂 Project Structure
-Course-Registry-System
-├── Frontend/ # HTML, CSS, JavaScript files
-├── src/main/java/com/example/myproject/
-│ ├── controller/ # REST Controllers (API Endpoints)
-│ ├── model/ # Entity classes
-│ ├── repository/ # Data access layer,JPA
-│ ├── service/ # Business logic
-├── README.md
 
 ## ⚡ Getting Started
 
@@ -67,5 +58,5 @@ Admin: Manage courses and students
 User (Student): View and register for courses
 Add JWT authentication for secure API access
 
-4
+
    
