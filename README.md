@@ -17,7 +17,7 @@ This project demonstrates a **REST API** that supports basic CRUD operations for
 ## 🛠️ Tech Stack
 **Backend:** Java, Spring Boot (REST API),Maven
 **Frontend:** HTML, CSS, JavaScript  
-**Database:** MySQL (or your chosen DB)  
+**Database:** MySQL 
 
 ---
 
